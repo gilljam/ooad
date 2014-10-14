@@ -5,3 +5,6 @@ C:\Users\Felicia\Documents\Visual Studio 2013\Projects\ScreenScraper\ScraperUnit
 C:\Users\Felicia\Documents\Visual Studio 2013\Projects\ScreenScraper\ScraperUnitTests\obj\Debug\ScraperUnitTests.pdb
 C:\Users\Felicia\Documents\Visual Studio 2013\Projects\ScreenScraper\ScraperUnitTests\bin\Debug\ScreenScraper.dll
 C:\Users\Felicia\Documents\Visual Studio 2013\Projects\ScreenScraper\ScraperUnitTests\bin\Debug\ScreenScraper.pdb
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\ScreenScraper\ScraperUnitTests\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\ScreenScraper\ScraperUnitTests\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\ScreenScraper\ScraperUnitTests\bin\Debug\HtmlAgilityPack.xml

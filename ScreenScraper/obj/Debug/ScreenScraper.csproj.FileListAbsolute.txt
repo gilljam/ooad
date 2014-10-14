@@ -4,3 +4,6 @@ C:\Users\Felicia\Documents\Visual Studio 2013\Projects\ScreenScraper\ScreenScrap
 C:\Users\Felicia\Documents\Visual Studio 2013\Projects\ScreenScraper\ScreenScraper\obj\Debug\ScreenScraper.csprojResolveAssemblyReference.cache
 C:\Users\Felicia\Documents\Visual Studio 2013\Projects\ScreenScraper\ScreenScraper\obj\Debug\ScreenScraper.dll
 C:\Users\Felicia\Documents\Visual Studio 2013\Projects\ScreenScraper\ScreenScraper\obj\Debug\ScreenScraper.pdb
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\ScreenScraper\ScreenScraper\bin\HtmlAgilityPack.dll
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\ScreenScraper\ScreenScraper\bin\HtmlAgilityPack.pdb
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\ScreenScraper\ScreenScraper\bin\HtmlAgilityPack.xml
