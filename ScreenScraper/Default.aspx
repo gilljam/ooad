@@ -9,8 +9,10 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    
+        <input id="OrgNoTextBox" type="text" runat="server"  /> 
+        <asp:Button ID="SearchButton" runat="server" Text="Sök på AllaBolag.se" OnClick="SearchButton_Click" />
     </div>
+        <div id="ResponseDiv" runat="server"></div>
     </form>
 </body>
 </html>

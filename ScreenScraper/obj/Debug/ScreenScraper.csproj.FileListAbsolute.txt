@@ -1,0 +1,6 @@
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\ScreenScraper\ScreenScraper\bin\ScreenScraper.dll.config
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\ScreenScraper\ScreenScraper\bin\ScreenScraper.dll
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\ScreenScraper\ScreenScraper\bin\ScreenScraper.pdb
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\ScreenScraper\ScreenScraper\obj\Debug\ScreenScraper.csprojResolveAssemblyReference.cache
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\ScreenScraper\ScreenScraper\obj\Debug\ScreenScraper.dll
+C:\Users\Felicia\Documents\Visual Studio 2013\Projects\ScreenScraper\ScreenScraper\obj\Debug\ScreenScraper.pdb

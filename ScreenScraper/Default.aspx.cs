@@ -13,5 +13,11 @@ namespace ScreenScraper
         {
 
         }
+
+        protected void SearchButton_Click(object sender, EventArgs e)
+        {
+            ABScraper scraper = new ABScraper();
+            ResponseDiv.InnerHtml = scraper.FindCompanyByOrgNo(OrgNoTextBox.Value);
+        }
     }
 }
