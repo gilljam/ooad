@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<useCaseDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="ScraperUseCaseDiagram">
+  <useCaseModelRootMoniker Id="f414f81c-113a-4fdb-b82a-c9e8419d944c" />
+  <nestedChildShapes>
+    <actorShape Id="4b877d99-90f9-432e-8a61-2f85b54612ba" absoluteBounds="2.375, 2.875, 0.5, 0.5" isReference="false" heightOffset="0">
+      <actorMoniker Id="52ea0f96-cbda-4832-bfd9-2abfff4b5468" LastKnownName="User" />
+      <relativeChildShapes />
+    </actorShape>
+    <SubsystemShape Id="9db942c6-9b7e-4b94-9923-3cacc0f05bc9" absoluteBounds="4, 1.875, 3, 2.5" customColor="White">
+      <subsystemMoniker Id="48006026-20e8-4904-aa23-0f09ee430a44" LastKnownName="ScreenScraperSystem" />
+      <nestedChildShapes>
+        <useCaseShape Id="e36ed5c3-4fd9-4d95-93e6-2976f9a2c8e2" absoluteBounds="4.875, 2.875, 1, 0.5" customColor="238, 237, 131" heightOffset="0">
+          <useCaseMoniker Id="cefc7020-0f5a-447c-bb3f-ac9d6df65f93" LastKnownName="View business info " />
+          <relativeChildShapes />
+        </useCaseShape>
+      </nestedChildShapes>
+    </SubsystemShape>
+    <useCaseAssociationConnector edgePoints="[(2.875 : 3.125); (4.875 : 3.125)]" fixedFrom="Algorithm" fixedTo="Algorithm" customColor="113, 111, 110" sourceMultiplicity="" targetMultiplicity="">
+      <associationMoniker Id="6edd686f-d0c0-480d-95b1-c709c2d54a34" />
+      <relativeChildShapes />
+      <nodes>
+        <actorShapeMoniker Id="4b877d99-90f9-432e-8a61-2f85b54612ba" />
+        <useCaseShapeMoniker Id="e36ed5c3-4fd9-4d95-93e6-2976f9a2c8e2" />
+      </nodes>
+    </useCaseAssociationConnector>
+  </nestedChildShapes>
+</useCaseDiagram>
