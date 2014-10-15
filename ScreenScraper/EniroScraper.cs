@@ -6,13 +6,13 @@ using HtmlAgilityPack;
 
 namespace ScreenScraper
 {
-    public class ABScraper : IScraper
+    public class EniroScraper : IScraper
     {
         public string FindCompanyByOrgNo(string o)
         {
             var getHtmlWeb = new HtmlWeb();
-            var pageResult = getHtmlWeb.Load(String.Format("http://www.allabolag.se/" + o));
-            var orgName = pageResult.DocumentNode.SelectSingleNode("//span[@id='printTitle']").InnerText;
+            var pageResult = getHtmlWeb.Load(String.Format("http://gulasidorna.eniro.se/hitta:" + o));
+            var orgName = pageResult.DocumentNode.SelectSingleNode("//*[@id='hit-list']/li/article/header/div[2]/h2/span/a").InnerText;
             return orgName;
         }
     }
